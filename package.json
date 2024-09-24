@@ -1,0 +1,23 @@
+{
+    "name": "sign-theme",
+    "displayName": "Sign theme",
+    "version": "0.0.1",
+    "publisher": "weuoimi-scesceae",
+    "description": "A theme inspired by Autechre sign album cover by The Designers Republic",
+    "author": {
+        "name": "weuoimi"
+    },
+    "categories": ["Themes"],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#A1A09F",
+        "theme": "dark"
+    },
+    "pricing": "Free",
+    "license": "GPL-3.0-only",
+    "repository": {
+        "type": "git",
+        "url": "/"
+    },
+    "homepage": "/"
+}
