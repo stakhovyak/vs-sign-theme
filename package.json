@@ -18,6 +18,15 @@
     },
     "pricing": "Free",
     "license": "GPL-3.0-only",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sign Theme",
+                "uiTheme": "vs-dark",
+                "path": "sign-theme.json"
+            }
+        ]
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/stakhovyak/vs-sign-theme"
