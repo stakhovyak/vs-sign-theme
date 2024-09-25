@@ -1,7 +1,11 @@
 # Autechre - SIGN/PLUS inspired theme for VSCode
 
 An easy-on-eyes reduced colors theme for VSCode made from Autechre SIGN/PLUS album covers.
-The themes are still pretty raw, so you can contact me via email://weuoimi@gmail.com or send an issue on github and suggest some changes.
+The themes are still pretty raw, so you can contact me via weuoimi@gmail.com or send an issue on github and suggest some changes.
+
+## Available at VSCode Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=weuoimi.sign-theme-vs-code
 
 ## PLUS flavour
 
