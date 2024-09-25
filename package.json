@@ -1,7 +1,7 @@
 {
     "name": "sign-theme-vs-code",
-    "displayName": "VS Sign theme",
-    "version": "0.0.5",
+    "displayName": "VS SIGN/PLUS Themes",
+    "version": "0.0.6",
     "publisher": "weuoimi",
     "description": "A theme inspired by Autechre sign album cover by The Designers Republic",
     "author": {
@@ -21,9 +21,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sign Theme",
+                "label": "PLUS",
                 "uiTheme": "vs-dark",
-                "path": "sign-theme.json"
+                "path": "themes/plus-theme.json"
+            },
+            {
+                "label": "SIGN",
+                "uiTheme": "vs-dark",
+                "path": "themes/sign-theme.json"
             }
         ]
     },
